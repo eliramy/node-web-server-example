@@ -6,11 +6,11 @@
 	ignorecase = true
 	precomposeunicode = true
 [remote "origin"]
-	url = https://github.com/garygreig/node-course-2-web-server.git
+	url = https://github.com/eliramy/node-web-server-example.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
 [remote "heroku"]
-	url = https://git.heroku.com/nameless-wildwood-38477.git
+	url = https://git.heroku.com/enigmatic-inlet-92194.git
 	fetch = +refs/heads/*:refs/remotes/heroku/*
